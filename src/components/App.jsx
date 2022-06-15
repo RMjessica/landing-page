@@ -18,7 +18,7 @@ const App = () => {
 
 				<Jumbotron />
 
-				<div className="container row row-cols-auto d-flex justify-content-between p-0">
+				<div className="container d-flex justify-content-between p-0">
 					<Card />
 					<Card />
 					<Card />

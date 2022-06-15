@@ -19,7 +19,7 @@ export const Card = () => {
   //const randomPics = _.sample([myPics]);
     
   return (
-    <div className="container d-flex m-2">
+    <div className="container d-flex">
       <div className="card col-sm-12 col-md-3" style={{width: "19rem"}}>
         <img src={pic} className="card-img-top img-fluid" alt="rhodes"/>
         <div className="card-body">
